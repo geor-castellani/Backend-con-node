@@ -30,7 +30,6 @@ de la API esté bien formateado para facilitar su mantenimiento. En esta fase, y
 probar si el modelo de negocio va a funcionar, no serán necesarios ni tests unitarios ni de
 integración.
 
-------------------------------------------------------------------------------------------
 
 ## Para su ejecución: 
 
